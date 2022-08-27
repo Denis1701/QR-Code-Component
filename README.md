@@ -13,5 +13,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Website - [GitHub](https://github.com/Denis1701/QR-Code-Component)
-- Live-Site - [Netlify](https://github.com/Denis1701/QR-Code-Component)
+- Live-Site - [Netlify](https://resonant-jelly-bdc516.netlify.app/)
 - LinkedIn - [@Dennis Kotsyuba](https://www.linkedin.com/in/dennis-k-2b837b129/)
